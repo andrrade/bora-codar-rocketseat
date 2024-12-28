@@ -1,8 +1,6 @@
-<!--
 <h1 align="center">
-  <img alt="Logo" src="">
+  <img alt="Logo" src="https://github.com/user-attachments/assets/28b28953-cc65-4915-84f2-17a0e76711fd">
 </h1>
--->
 
 <p align="center">
   Repositório contendo códigos feitos no #boracodar da Rocketseat
@@ -25,7 +23,7 @@
 
 <ul>
   <li>
-    <a href="https://curso-js-ballerini-aula01.vercel.app/" target="_blank"></a>
+    <a href="https://bora-codar-rocketseat-two.vercel.app/" target="_blank">Player de Música</a>
   </li>
 </ul>
 
