@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  Repositório contendo códigos feitos no #boracodar da Rocketseat
+  Repositório contendo projetos feitos no #boracodar da Rocketseat
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
