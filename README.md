@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Logo" src="https://github.com/user-attachments/assets/28b28953-cc65-4915-84f2-17a0e76711fd" width="320px">
+  <img alt="Logo #boracodar" src="https://github.com/user-attachments/assets/28b28953-cc65-4915-84f2-17a0e76711fd" width="250px">
 </h1>
 
 <p align="center">
